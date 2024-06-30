@@ -16,4 +16,4 @@ Then:
 ~~~
 go run main.go
 ~~~
-
+Used colour in the output in the terminal Using ANSI Escape Codes. If you're getting any kind of errors then delete the escape codes from each lines, the last line has the example ansi codes as an example, remove those from print lines.
